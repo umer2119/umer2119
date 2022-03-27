@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umer2119
-- 👀 I’m interested in CPP,Python, web development, software development, networking , security.
-- 🌱 I’m currently learning .CPP, Networking
+- 👀 I’m interested in CPP,Python,Data Structure, software development, networking , security.
+- 🌱 I’m currently learning .CPP, Networking.
 - �
 
 <!---
